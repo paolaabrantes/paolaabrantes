@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá mundo! Eu sou a Paola Abrantes! 👋🏻
 
-<!--
-**paolaabrantes/paolaabrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Um pouco sobre mim
+- 👩🏻‍💻 Trabalho como Auxiliar de Engenharia no Grupo Multi
+- 📔 Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Bragança Paulista
+- 💭 Aspirante a desenvolvedora back-end.
+- 🫱🏼‍🫲🏻 Entre em contato comigo: paolaabrantes2003@gmail.com
+- 📋 Saiba Mais
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens
+- <img src="https://img.icons8.com/?size=100&id=25423&format=png&color=000000" width="15px">
+- <img src="https://img.icons8.com/?size=100&id=112069&format=png&color=000000" width="30px">
+- <img src="https://img.icons8.com/?size=100&id=112747&format=png&color=000000" width="30px">
+
+
+## 📚 Em Estudo
+- <img src="https://img.icons8.com/?size=100&id=24045&format=png&color=000000" width="25px">
