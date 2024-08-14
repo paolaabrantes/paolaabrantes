@@ -1,7 +1,7 @@
 ## Olá mundo! Eu sou a Paola Abrantes! 👋🏻
 
 ## ✨ Um pouco sobre mim
-- 👩🏻‍💻 Trabalho como Auxiliar de Engenharia no Grupo Multi
+- 👩🏻‍💻 Trabalho como Assistente de Engenharia no Grupo Multi
 - 📔 Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Bragança Paulista
 - 💭 Aspirante a desenvolvedora back-end.
 - 🫱🏼‍🫲🏻 Entre em contato comigo: paolaabrantes2003@gmail.com
