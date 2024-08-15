@@ -5,7 +5,7 @@
 - 📔 Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de Bragança Paulista
 - 💭 Aspirante a desenvolvedora back-end.
 - 🫱🏼‍🫲🏻 Entre em contato comigo: paolaabrantes2003@gmail.com
-- 📋 <a href=“https://paolaabrantes.github.io/“>Saiba Mais</a>
+- 📋 [Saiba Mais](https://paolaabrantes.github.io/)
 
 
 ## 🛠️ Linguagens
